@@ -1,0 +1,3 @@
+D:/ahmed &mohamed/cmake-build-debug/CMakeFiles/ahmed__mohamed.dir
+D:/ahmed &mohamed/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ahmed &mohamed/cmake-build-debug/CMakeFiles/rebuild_cache.dir

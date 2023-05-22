@@ -1,0 +1,3 @@
+D:/PhoneDirectory/cmake-build-debug/CMakeFiles/PhoneDirectory.dir
+D:/PhoneDirectory/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PhoneDirectory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
